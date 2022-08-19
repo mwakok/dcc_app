@@ -31,7 +31,7 @@ invisible(lapply(packages, library, character.only = TRUE))
 # documentation for flexdashboard options: https://rstudio.github.io/flexdashboard/articles/using.html 
 
 # Add theme customizer for experimentation with themes
-bslib::bs_themer()
+# bslib::bs_themer()
 
 
 # Get the auxiliary info from the tool_kit file
